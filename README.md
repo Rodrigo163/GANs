@@ -20,4 +20,4 @@ Both start randomly initialized and then simultaneously trained. In the end the 
 
 
 
-[Disc_loss] : https://github.com/Rodrigo163/GANs/screenshots/disc_loss.png
+[Disc_loss] : https://github.com/Rodrigo163/GANs/screenshots/disc_loss.png "Discriminator loss function."
