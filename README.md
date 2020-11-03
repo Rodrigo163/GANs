@@ -14,4 +14,4 @@ A class of ML techniques consisting of two networks playing an [adversarial game
 Both start randomly initialized and then simultaneously trained. In the end the generator produces elements indistinguishable from the "real" reference onces and the discriminator is forced to guess.
 
 ## Loss function:
-![alt text](https://github.com/Rodrigo163/GANs/screenshots/disc_loss.png "Discriminator loss function.")
+![alt text](screenshots/disc_loss.png "Discriminator loss function.")
